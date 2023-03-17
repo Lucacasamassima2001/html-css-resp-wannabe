@@ -137,6 +137,7 @@ main .container{
 
  /* mobile first */
 
+
  @media screen and (max-width: 480px) {
     
     .row{
@@ -160,4 +161,3 @@ main .container{
     }
 
  }
-
